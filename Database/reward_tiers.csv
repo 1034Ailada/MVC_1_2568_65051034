@@ -1,0 +1,29 @@
+project_id,tier_id,title,minimum_amount,quota_left
+12345678,T1,Sticker Pack,100.00,50
+12345678,T2,T-Shirt,500.00,20
+
+12345679,T1,Thank You Card,200.00,200
+12345679,T2,Water Bottle,1000.00,80
+12345679,T3,Backer Name on Plaque,5000.00,20
+
+12345680,T1,Health Kit,300.00,150
+12345680,T2,Clinic Sponsor Badge,1500.00,40
+
+12345681,T1,Course Badge,100.00,300
+12345681,T2,Printed Handbook,800.00,60
+
+12345682,T1,Tree Certificate,200.00,120
+12345682,T2,Name on Donor Board,500.00,50
+
+12345683,T1,Supporter E-card,200.00,200
+12345683,T2,Workshop Seat,1000.00,30
+12345683,T3,Golden Sponsor,2000.00,10
+
+12345684,T1,Solar Sticker,150.00,150
+12345684,T2,Classroom Nameplate,700.00,25
+
+12345685,T1,Digital Poster,100.00,200
+12345685,T2,Premiere Ticket,1000.00,40
+
+12345686,T1,Recycling Kit,100.00,120
+12345686,T2,Hackathon T-Shirt,300.00,80

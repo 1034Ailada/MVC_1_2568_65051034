@@ -1,0 +1,4 @@
+user_id,username,password,display_name
+U001,alice,pass123,Alice
+U002,bob,secret,Bob
+U003,charlie,1234,Charlie

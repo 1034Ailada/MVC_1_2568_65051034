@@ -1,0 +1,27 @@
+project_id,sg_id,threshold_amount,description,unlocked
+12345678,SG125,62500.00,Add extra workshop day,0
+12345678,SG150,75000.00,Premium robot kits,0
+
+12345679,SG125,100000.00,Expand water filters to 2 more villages,0
+12345679,SG150,120000.00,Community maintenance fund,0
+
+12345680,SG125,150000.00,Mobile X-ray device,0
+12345680,SG150,180000.00,Second clinic van,0
+
+12345681,SG125,75000.00,Extra CS modules,0
+12345681,SG150,90000.00,Teacher training bootcamp,0
+
+12345682,SG125,50000.00,Add 200 more trees,0
+12345682,SG150,60000.00,Urban biodiversity garden,0
+
+12345683,SG125,87500.00,24/7 hotline capacity upgrade,0
+12345683,SG150,105000.00,Add 3 more counselors,0
+
+12345684,SG125,112500.00,Solar lab equipment,0
+12345684,SG150,135000.00,Additional solar classroom,0
+
+12345685,SG125,37500.00,Behind-the-scenes mini-series,0
+12345685,SG150,45000.00,Community screenings,0
+
+12345686,SG125,31250.00,More hackathon prize pool,0
+12345686,SG150,37500.00,City-wide recycling challenge,0
